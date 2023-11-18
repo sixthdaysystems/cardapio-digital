@@ -1,0 +1,1 @@
+document.body.addEventListener("mousedown",function(){document.body.style.cursor='url("src/assets/cursor/cursor-mousedown.png"), auto'}),document.body.addEventListener("mouseup",function(){document.body.style.cursor='url("src/assets/cursor/cursor-mouseup.png"), auto'});
